@@ -14,9 +14,9 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+#### [External Link Project](https://www.linkedin.com/pulse/uncovering-flavorful-insights-data-analysis-ifood-trends-kenny-dunn-nkjqc%3FtrackingId=KYmY6YsbRP6VGcBoKigFXg%253D%253D/?trackingId=KYmY6YsbRP6VGcBoKigFXg%3D%3D)
+[<img src="images/iFood.png?raw=true"/>](https://www.linkedin.com/pulse/uncovering-flavorful-insights-data-analysis-ifood-trends-kenny-dunn-nkjqc%3FtrackingId=KYmY6YsbRP6VGcBoKigFXg%253D%253D/?trackingId=KYmY6YsbRP6VGcBoKigFXg%3D%3D)
+My analysis of iFood Data.  iFood is the Brazilian equivilant to Door Dash.  Here I examined the raw data to gain insights to the customers that iFood serves.  I created bar charts, scatter plots and pivot tables to reveal the causal relationship between income and order amounts, how marital status and having kids affected spending and what months had the highest numbers of new member acquisitions.  
 
 
 ---
