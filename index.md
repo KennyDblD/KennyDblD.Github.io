@@ -14,9 +14,9 @@ iFood is the Brazilian equivilant to Door Dash and I analyzed their publicly ava
 #### [Education Project](https://www.loom.com/share/c79e0210b5394b15ab0984b0cc0bc984)
 [<img src="images/Tableau_Mass_Ed.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+What High Schools had the lowest graduation percentages? <br>
+How does class size affect college admission? <br>
+What are the top 4th grade math schools in the state? 
 
 
 
