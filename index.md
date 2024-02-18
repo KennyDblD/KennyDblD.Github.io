@@ -22,7 +22,7 @@ What are the top 4th grade math schools in the state?
 ---
 #### [AirBnB Tableau Project](https://public.tableau.com/app/profile/kenny.dunn/viz/AirBnBZipCodeDataViz/Dashboard1)
 [<img src="AirBnB_ZipCodes_Seattle.png?raw=true"/>](https://public.tableau.com/app/profile/kenny.dunn/viz/AirBnBZipCodeDataViz/Dashboard1)
-In this case study I analyzed AirBnB data for the city of Seattle. The main focuses were: <br>
+In this case study I analyzed AirBnB data for the city of Seattle. There were three things that I was really focused on in analyzing this data and they were: <br>
 Which Zipcodes have the highest prices for a rental? <br>
 What months had the most revenue? <br>
 Did the number of bedrooms in a rental affect rantability? 
