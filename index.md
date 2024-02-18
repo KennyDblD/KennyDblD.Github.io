@@ -7,7 +7,7 @@
 ---
 #### [iFood Data Project](https://www.linkedin.com/pulse/uncovering-flavorful-insights-data-analysis-ifood-trends-kenny-dunn-nkjqc%3FtrackingId=KYmY6YsbRP6VGcBoKigFXg%253D%253D/?trackingId=KYmY6YsbRP6VGcBoKigFXg%3D%3D)
 [<img src="images/iFood.png?raw=true"/>](https://www.linkedin.com/pulse/uncovering-flavorful-insights-data-analysis-ifood-trends-kenny-dunn-nkjqc%3FtrackingId=KYmY6YsbRP6VGcBoKigFXg%253D%253D/?trackingId=KYmY6YsbRP6VGcBoKigFXg%3D%3D)
-iFood is the Brazilian equivilant to Door Dash and I analyzed their publicly available data to gain insights into the customers that they serve.  I created bar charts, scatter plots and pivot tables to reveal the causal relationship between income and order amounts, how marital status and having kids affected spending and what months had the highest numbers of new member acquisitions.  
+iFood is the Brazilian equivilant to Door Dash and I analyzed their publicly available data to gain insights into the customers that they serve.  I created bar charts, scatter plots and pivot tables to reveal the causal relationships between income and order amounts, how marital status and having kids affected spending and what months had the highest numbers of new member acquisitions.  
 
 
 ---
