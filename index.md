@@ -4,9 +4,7 @@
 
 ### Learn About My Projects
 
----
-#### [World Bank Yemen SQL Project.pdf](/Yemen_Project.md)
-<img src="World Bank SQL Project.pptx?raw=true"/>
+
 
 
 
