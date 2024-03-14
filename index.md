@@ -8,12 +8,12 @@
 <hr />
 <h4 id="Yemen's Economic Lifeline: Analyzing World Bank Loans through SQL"><a href="/files/World Bank Yemen SQL Project.pdf">Yemen's Economic Lifeline: Analyzing World Bank Loans through SQL</a></h4>
 <p><img src="images/Yemen_SQL_Code.png" />
-This project allowed me to explore data from the World Bank.  I chose to focus my analysis on the Republic of Yemen. I worked with CSVFiddle to run some SQL queries
-and utilize the following functions:
+This project allowed me to explore IDA data from the World Bank.  I chose to focus my analysis on the Republic of Yemen. I utilized CSVFiddle to run SQL queries
+and utilize the following functions to do that:
 <br /><br />
 AS Function • GROUP BY Function • MAX Function • ORDER BY Function • COUNT Function • AVG Function • AND/OR Functions • WHERE Function 
 <br /><br />
-Below are the questions that I was tasked with answering:
+Below are the questions that I wanted to answer during my analysis:
 <br /><br />
 💡What types of Programs are funded?
 <br /><br />
