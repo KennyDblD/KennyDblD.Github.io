@@ -6,7 +6,7 @@
 
 ---
 <hr />
-<h4 id="world-bank-analysis"><a href="/files/World Bank Yemen SQL Project.pdf">World Bank Analysis</a></h4>
+<h4 id="Yemen's Economic Lifeline: Analyzing World Bank Loans through SQL"><a href="/files/World Bank Yemen SQL Project.pdf">World Bank Analysis</a></h4>
 <p><img src="images/World_Bank_Analysis.logo.jpg" />
 This project allowed me to explore data from the World Bank.  I chose to focus my analysis on the Republic of Yemen. I worked with CSVFiddle to run some SQL queries
 and utilize the following functions:
