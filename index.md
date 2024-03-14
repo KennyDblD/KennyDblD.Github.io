@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 ---
-#### [Internal Blog Post Project](/bank)
+#### [World Bank SQL Project.pptx](/bank)
 <img src="World Bank SQL Project.pptx?raw=true"/>
 Tolulope is the best
 
