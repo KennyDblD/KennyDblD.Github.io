@@ -5,6 +5,12 @@
 ### Learn About My Projects
 
 ---
+#### [Internal Blog Post Project](/bank)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Tolulope is the best
+
+
+---
 #### [iFood Data Excel Project](https://www.linkedin.com/pulse/uncovering-flavorful-insights-data-analysis-ifood-trends-kenny-dunn-nkjqc%3FtrackingId=KYmY6YsbRP6VGcBoKigFXg%253D%253D/?trackingId=KYmY6YsbRP6VGcBoKigFXg%3D%3D)
 [<img src="images/iFood.png?raw=true"/>](https://www.linkedin.com/pulse/uncovering-flavorful-insights-data-analysis-ifood-trends-kenny-dunn-nkjqc%3FtrackingId=KYmY6YsbRP6VGcBoKigFXg%253D%253D/?trackingId=KYmY6YsbRP6VGcBoKigFXg%3D%3D)
 iFood is the Brazilian equivilant to Door Dash and I analyzed the data to gain insights into the customers that they serve.  I created bar charts, scatter plots and pivot tables.  The data revealed: <br>
