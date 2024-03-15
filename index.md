@@ -6,8 +6,13 @@
 
 ---
 #### [World Bank SQL Analysis](/files/World Bank Yemen SQL Project.pdf)
-[<img src="images/Yemen_SQL_Code.png?raw=true"/>](https://www.linkedin.com/pulse/uncovering-flavorful-insights-data-analysis-ifood-trends-kenny-dunn-nkjqc%3FtrackingId=KYmY6YsbRP6VGcBoKigFXg%253D%253D/?trackingId=KYmY6YsbRP6VGcBoKigFXg%3D%3D)
-iFood is the Brazilian equivilant to Door Dash and I analyzed the data to gain insights into the customers that they serve.  I created bar charts, scatter plots and pivot tables.  The data revealed: <br>
+[<img src="images/Yemen_SQL_Code.png?raw=true"/>](/files/World Bank Yemen SQL Project.pdf)
+This project allowed me to explore IDA data from the World Bank.  I chose to focus my analysis on the Republic of Yemen. I utilized CSVFiddle to run SQL queries
+and utilize the following functions to do that:
+<br /><br />
+AS Function • GROUP BY Function • MAX Function • ORDER BY Function • COUNT Function • AVG Function • AND/OR Functions • WHERE Function 
+<br /><br />
+
 💡What types of Programs are funded? <br>
 💡What State Department borrowed the money? <br>
 💡What State Department borrowed the money?.  
