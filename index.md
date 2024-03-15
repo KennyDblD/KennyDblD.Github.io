@@ -20,8 +20,8 @@ AS Function • GROUP BY Function • MAX Function • ORDER BY Function • COU
 
 
 ---
-#### [iFood Data Excel Project](https://www.linkedin.com/pulse/uncovering-flavorful-insights-data-analysis-ifood-trends-kenny-dunn-nkjqc%3FtrackingId=KYmY6YsbRP6VGcBoKigFXg%253D%253D/?trackingId=KYmY6YsbRP6VGcBoKigFXg%3D%3D)
-[<img src="images/iFood.png?raw=true"/>](https://www.linkedin.com/pulse/uncovering-flavorful-insights-data-analysis-ifood-trends-kenny-dunn-nkjqc%3FtrackingId=KYmY6YsbRP6VGcBoKigFXg%253D%253D/?trackingId=KYmY6YsbRP6VGcBoKigFXg%3D%3D)
+#### [iFood Data Excel Project](https://www.linkedin.com/pulse/uncovering-flavorful-insights-data-analysis-ifood-trends-kenny-dunn-nkjqc/)
+[<img src="images/iFood.png?raw=true"/>](https://www.linkedin.com/pulse/uncovering-flavorful-insights-data-analysis-ifood-trends-kenny-dunn-nkjqc/)
 iFood is the Brazilian equivilant to Door Dash and I analyzed the data to gain insights into the customers that they serve.  I created bar charts, scatter plots and pivot tables.  The data revealed: <br>
 💡The causal relationships between income and order amounts. <br>
 💡How marital status and having kids at home affected spending. <br>
