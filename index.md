@@ -6,7 +6,7 @@
 
 ---
 #### [World Bank SQL Analysis](/World_Bank_SQL_Project.pdf)
-<img src="images/Yemen_SQL_Code.png?raw=true"/>
+[<img src="images/Yemen_SQL_Code.png?raw=true"/>](/World_Bank_SQL_Project.pdf)
 This project allowed me to explore IDA data from the World Bank.  I chose to focus my analysis on the Republic of Yemen. I utilized CSVFiddle to run SQL queries
 and utilize the following functions to do that:
 <br /><br />
