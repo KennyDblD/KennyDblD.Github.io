@@ -45,9 +45,9 @@ and utilize the following functions to do that:
 AS Function • GROUP BY Function • MAX Function • ORDER BY Function • COUNT Function • AVG Function • AND/OR Functions • WHERE Function 
 <br /><br />
 
-💡What types of Programs are funded? <br>
-💡What State Department borrowed the money? <br>
-💡What State Department borrowed the money?.  
+💲What types of Programs are funded? <br>
+💲What State Department borrowed the money? <br>
+💲What the Credit Status of the Loan is.  
 
 
 
@@ -57,9 +57,9 @@ AS Function • GROUP BY Function • MAX Function • ORDER BY Function • COU
 <br><br>
 iFood is the Brazilian equivilant to Door Dash and I analyzed the data to gain insights into the customers that they serve.  I created bar charts, scatter plots and pivot tables.  The data revealed: 
 <br><br>
-💡The causal relationships between income and order amounts. <br>
-💡How marital status and having kids at home affected spending. <br>
-💡The months that had the highest number of new member acquisitions.  
+🥩The causal relationships between income and order amounts. <br>
+🍕How marital status and having kids at home affected spending. <br>
+🍔The months that had the highest number of new member acquisitions.  
 
 
 ---
@@ -68,9 +68,9 @@ iFood is the Brazilian equivilant to Door Dash and I analyzed the data to gain i
 <br><br>
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were: 
 <br><br>
-💡What High Schools had the lowest graduation percentages? <br>
-💡How does class size affect college admission? <br>
-💡What are the top 4th grade math schools in the state? 
+👨‍🎓What High Schools had the lowest graduation percentages? <br>
+👩‍🎓How does class size affect college admission? <br>
+✒️What are the top 4th grade math schools in the state? 
 
 
 ---
@@ -79,9 +79,9 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze th
 <br><br>
 In this case study I analyzed AirBnB data for the city of Seattle. There were three things that I was really focused on in analyzing this data and they were: 
 <br><br>
-💡Which Zipcodes have the highest prices for a rental? <br>
-💡What months had the most revenue? <br>
-💡Did the number of bedrooms in a rental affect rantability? 
+🛌Which Zipcodes have the highest prices for a rental? <br>
+🛌What months had the most revenue? <br>
+🛌Did the number of bedrooms in a rental affect rantability? 
 
 
 
