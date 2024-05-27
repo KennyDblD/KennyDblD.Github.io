@@ -5,6 +5,21 @@
 ### Learn About My Projects
 
 ---
+#### [2023-24 NBA Data Analysis](/2023-24_NBA_Data_Analysis.pdf)
+[<img src="images/Hospital_Pic.png?raw=true"/>](/Healthcare_Data_Project_Writeup.pdf)
+<br><br>
+This project allowed me to explore healthcare data from 130 hospitals across the U.S.  The data spans from 1999-2008 and included multiple tables within the dataset. I utilized MySQL to run SQL queries
+and utilize the following functions to do that:
+<br /><br />
+GROUP BY Function • HAVING/DISTINCT Function • ORDER BY Function • COUNT Function • AVG Function •  CASE WHEN Functions • JOIN Function 
+<br /><br />
+
+💡Explored the Average length of stay in the hospital. <br>
+💡Identifyed the medical specialties with the highest average procedure orders <br>
+💡Investigated the correlation between the quantity of procedures administered to a patient and the duration of their hospital stay.<br> 
+💡Investigated whether race influences the level of care received. 
+
+---
 #### [Healthcare SQL Analysis](/Healthcare_Data_Project_Writeup.pdf)
 [<img src="images/Hospital_Pic.png?raw=true"/>](/Healthcare_Data_Project_Writeup.pdf)
 <br><br>
