@@ -6,18 +6,18 @@
 
 ---
 #### [2023-24 NBA Data Analysis](/2023-24_NBA_Data_Analysis.pdf)
-[<img src="images/Hospital_Pic.png?raw=true"/>](/Healthcare_Data_Project_Writeup.pdf)
+[<img src="images/NBA_Analysis_Ticket.png?raw=true"/>](/2023-24_NBA_Data_Analysis.pdf)
 <br><br>
-This project allowed me to explore healthcare data from 130 hospitals across the U.S.  The data spans from 1999-2008 and included multiple tables within the dataset. I utilized MySQL to run SQL queries
-and utilize the following functions to do that:
+In this project I explored NBA Player data from the 2023-24 regular season.  The data includes 572 rows and 30 columns, offering detailed statistics for 523 players. I utilized Tableau to create dashboards and a Tableau Story.
 <br /><br />
-GROUP BY Function • HAVING/DISTINCT Function • ORDER BY Function • COUNT Function • AVG Function •  CASE WHEN Functions • JOIN Function 
+I created Bubble Plots, Stacked Bar Charts, Heatmaps, and Tree Maps to display the data.
 <br /><br />
 
-💡Explored the Average length of stay in the hospital. <br>
-💡Identifyed the medical specialties with the highest average procedure orders <br>
-💡Investigated the correlation between the quantity of procedures administered to a patient and the duration of their hospital stay.<br> 
-💡Investigated whether race influences the level of care received. 
+🏀 Luka Dončić and Nikola Jokić clearly dominate the offensive side of the game. <br>
+🏀 Luka Dončić may be underrated as a defensive player but that side of the game is clearly dominated by centers with Victor Wembanyama being the clear top flight player here. <br>
+🏀 PG’s and SG’s are the clear favorites in 3 PT% but a few teams have Centers that shoot the 3 well.<br> 
+🏀 Most teams have at least two players that dominate the scoring on the team. <br>
+🏀 PG’s dominate assists per team and position but there are outliers such as Nikola Jokić for Centers and Pascal Siakam for PF’s.
 
 ---
 #### [Healthcare SQL Analysis](/Healthcare_Data_Project_Writeup.pdf)
