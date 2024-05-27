@@ -29,10 +29,10 @@ and utilize the following functions to do that:
 GROUP BY Function • HAVING/DISTINCT Function • ORDER BY Function • COUNT Function • AVG Function •  CASE WHEN Functions • JOIN Function 
 <br /><br />
 
-💡Explored the Average length of stay in the hospital. <br>
-💡Identifyed the medical specialties with the highest average procedure orders <br>
-💡Investigated the correlation between the quantity of procedures administered to a patient and the duration of their hospital stay.<br> 
-💡Investigated whether race influences the level of care received. 
+⚕️Explored the Average length of stay in the hospital. <br>
+⚕️Identifyed the medical specialties with the highest average procedure orders <br>
+⚕️Investigated the correlation between the quantity of procedures administered to a patient and the duration of their hospital stay.<br> 
+⚕️Investigated whether race influences the level of care received. 
 
 
 ---
